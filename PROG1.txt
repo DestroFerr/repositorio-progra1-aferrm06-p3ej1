@@ -8,3 +8,14 @@
 8. Risueño - https://dle.rae.es/risue%C3%B1o?m=form
 9. Legado - https://dle.rae.es/legado?m=form
 10. Acechar - https://dle.rae.es/acechar?m=form
+
+cama - http://dle.rae.es/?w=cama
+zapatilla - http://dle.rae.es/?w=zapatilla
+ordenador - http://dle.rae.es/?w=ordenador
+cascos - http://dle.rae.es/?w=cascos
+mochila - http://dle.rae.es/?w=mochila
+colonia - http://dle.rae.es/?w=colonia
+espejo - http://dle.rae.es/?w=espejo
+cuaderno - http://dle.rae.es/?w=cuaderno
+gafas - http://dle.rae.es/?w=gafas
+vaso - http://dle.rae.es/?w=vaso
